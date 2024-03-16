@@ -1,0 +1,19 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    background-color: black;
+    color: deeppink;
+}
+
+.Header a {
+    color: salmon;
+    text-decoration: none;
+    margin: 0 5px;
+    font-size: 25px;
+}
+
+.tools {
+    display: flex;
+}
